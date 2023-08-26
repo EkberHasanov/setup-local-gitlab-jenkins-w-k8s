@@ -103,3 +103,5 @@ http://<your-minikube-ip>:30200
 ## TODO
   * Create MakeFile
   * Create some bash scripts for automating some processes
+  * Create tutorial for getting password and all confs for both of them
+  * Show how to integrate them each other using gitlab-webhook
